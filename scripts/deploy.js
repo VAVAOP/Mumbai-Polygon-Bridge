@@ -7,12 +7,12 @@
 const hre = require("hardhat");
 
 async function main() {
-  // Get the contract factory (ABI and bytecode)
-  const NFT = await hre.ethers.getContractFactory("FuturisticFactory");
+ 
+  const FF = await hre.ethers.getContractFactory("FuturisticFactory");
 
-  const nft = await NFT.deploy();
+  const futuristicfactory = await FF.deploy();
 
-  await nft.deployed();
+  await futuristicfactory.deployed();
 
   console.log("NFT contract deployed to the address: ", nft.address);
 }
