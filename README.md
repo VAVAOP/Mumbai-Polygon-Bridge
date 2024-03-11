@@ -20,7 +20,7 @@ For Getting Started you Need An Solidity Enviornment To Work With You Can Either
 
 * Now You Need Basi Packages To Succesfully Bridge Our NFT's Which Are:
 * [Nodejs](https://nodejs.org/en/download/current)
-* [HardHat] ([https://hardhat.org/hardhat-runner/docs/getting-started](https://hardhat.org/))
+* [HardHat][https://hardhat.org/hardhat-runner/docs/getting-started](https://hardhat.org/)
 * [Npm](https://www.npmjs.com/package/npm)
 * After You installed All Of Dependencies
 * Then You Need To Paste Your private Key in File :(.env.example =>PRIVATE_KEY='Your Key Here')
@@ -63,7 +63,7 @@ Main issues That Tend To Encounter:
  sol:)Go To [GoerliPoW](https://goerli-faucet.pk910.de/) ,Still Cant Get Contact Me
 * Showing Errors Related To dependencies Like Hadhat,npm:(
    sol:) Run For Hadhat Related Problems
-  ```
+```
 npm install --save-dev hardhat
 npm install hardhat
 ```
