@@ -70,11 +70,11 @@ npm install hardhat
 npm Related Problems :(
  Download Nodejs And npm Modules
 Run This Url on Any Browser You Like:)
-  ```
+```
 https://docs.npmjs.com/downloading-and-installing-node-js-and-npm
 ```
   
-If You Have To Phase Any Sort Of Dificulties Or Errors Feel Free To Approach Me I Will Be More Happy To Help You
+* If You Have To Phase Any Sort Of Dificulties Or Errors Feel Free To Approach Me I Will Be More Happy To Help You
 ```
 iamoneofthechoosen1@gmail.com
 ```
