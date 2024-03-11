@@ -14,7 +14,7 @@ async function main() {
 
   await futuristicfactory.deployed();
 
-  console.log("NFT contract deployed to the address: ", nft.address);
+  console.log("NFT contract deployed to the address: ", futuristicfactory.address);
 }
 
 // We recommend this pattern to be able to use async/await everywhere
